@@ -30,12 +30,6 @@
 
 ---
 
-### 🧠 LeetCode Stats
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME"/>
-</p>
-
----
 
 ### 🐍 Contribution Snake
 <p align="center">
